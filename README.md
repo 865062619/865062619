@@ -1,6 +1,6 @@
 ### Personal Introduction
 
-Hello, I'm Luo Qi, born in October 1998. Currently, I'm a student at the School of Big Data and Software, Chongqing University. My main research directions include Laser SLAM, Reinforcement Learning, Gaussian splating, NeRF, Object Detection and Instance Segmentation.
+Hello, I'm Luo Qi, born in October 1998. Currently, I'm a student at the School of Big Data and Software, Chongqing University. My main research directions include LiDAR SLAM, Reinforcement Learning, Gaussian splating, NeRF, Object Detection and Instance Segmentation.
 
 ### Technical Abilities
 
@@ -18,8 +18,6 @@ Hello, I'm Luo Qi, born in October 1998. Currently, I'm a student at the School 
 
 **Personal Responsibilities**: Responsible for the development and deployment of the edge - shrinking algorithm for object detection and the instance segmentation algorithm. Optimized the algorithms to improve detection accuracy and speed, ensuring the efficient operation of the algorithms in real - world scenarios.
 
-**Achievement Display**: The optimized algorithms have improved the detection accuracy by \[X]% and the running speed by \[X]%.
-
 **Changan Technology Large - Scale Scene Simulation Data Generation Project**
 
 **Project Name**: Large - Scale Scene Simulation Data Generation Project
@@ -27,8 +25,6 @@ Hello, I'm Luo Qi, born in October 1998. Currently, I'm a student at the School 
 **Project Description**: Dedicated to generating simulation data for large - scale scenes, providing data support for fields such as autonomous driving.
 
 **Personal Responsibilities**: Undertake the development of the SLAM algorithm for large - scale scenes, achieving accurate laser positioning and map construction, and providing reliable location information and map basis for data generation.
-
-**Achievement Display**: Successfully generated high - precision maps for complex large - scale scenes, with the positioning accuracy reaching within \[X] meters.
 
 ### Interests and Research Directions
 
